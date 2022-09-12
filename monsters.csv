@@ -1,0 +1,6 @@
+Name,HP,STR,DEX,WIL,Armour,Attack,Pips
+Rat,2,12,8,8,0,Cleaver,3
+Mouse,2,9,9,9,0,Sword,2
+Frog,3,12,15,8,1,Spear,4
+Faerie,3,10,15,15,0,Rapier,3
+Spider,4,8,15,10,1,Poison,5
